@@ -1,4 +1,5 @@
 ghcr.io/autobrr/autobrr:latest
+linuxserver/deluge:latest
 linuxserver/jackett:latest
 ccf2012/seedcross:latest
 flaresolverr/flaresolverr:latest
@@ -21,6 +22,7 @@ amilys/embyserver:latest
 linuxserver/emby:latest
 emby/embyserver:latest
 linuxserver/plex:latest
+nyanmisaka/jellyfin:latest-legacy
 metatube/metatube-server:latest
 ysx88/autolady:latest
 stainless403/mdcx-builtin-gui-base:latest
@@ -39,3 +41,6 @@ likun7981/hlink:latest
 mzz2017/v2raya:latest
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
+6053537/portainer-ce:latest
+adguard/adguardhome:latest
+koush/scrypted:latest
