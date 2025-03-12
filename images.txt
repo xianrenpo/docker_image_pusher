@@ -44,3 +44,4 @@ ghcr.io/open-webui/open-webui:main
 6053537/portainer-ce:latest
 adguard/adguardhome:latest
 koush/scrypted:latest
+envyafish/byte-muse:latest
