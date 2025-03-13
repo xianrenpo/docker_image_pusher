@@ -45,3 +45,4 @@ ghcr.io/open-webui/open-webui:main
 adguard/adguardhome:latest
 koush/scrypted:latest
 envyafish/byte-muse:latest
+0nlylty/dockercopilot:latest
