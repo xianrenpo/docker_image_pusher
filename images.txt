@@ -23,7 +23,7 @@ linuxserver/emby:latest
 emby/embyserver:latest
 linuxserver/plex:latest
 nyanmisaka/jellyfin:latest-legacy
-metatube/metatube-server:latest
+ghcr.io/metatube-community/metatube-server:latest
 ysx88/autolady:latest
 stainless403/mdcx-builtin-gui-base:latest
 imaliang/cloud-media-sync:latest
