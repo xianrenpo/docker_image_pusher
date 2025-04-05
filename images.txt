@@ -46,5 +46,5 @@ adguard/adguardhome:latest
 koush/scrypted:latest
 envyafish/byte-muse:latest
 0nlylty/dockercopilot:latest
-elenium/standalone-chrome:dev
+selenium/standalone-chrome:latest
 xxdojia/sign-all:latest
