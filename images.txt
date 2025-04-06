@@ -48,3 +48,4 @@ envyafish/byte-muse:latest
 0nlylty/dockercopilot:latest
 selenium/standalone-chrome:latest
 xxdojia/sign-all:latest
+ghcr.io/sarperavci/cloudflarebypassforscraping:latest
